@@ -8,8 +8,8 @@ and wow how amazing it actually worked!!!
 
 Below is the history of the cli :
   527  cd uninitiate.github.io/
-  528  cp ~/gitnub/uninitiate/skills-github-pages/*.* 
-  529  cp ~/gitnub/uninitiate/skills-github-pages/*.* .
+  528  cp ~/gitnub/uninitiate/skills-github-pages/*.*    /n
+  529  cp ~/gitnub/uninitiate/skills-github-pages/*.* .  /n
   530  ls ial
   531  ls -al
   532  cp ~/gitnub/uninitiate/skills-github-pages/* .
