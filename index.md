@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to My Blog
 ---
-Some of the Things I've Tiried on this course:
+Some of the Things I've Tiried on this course from https://skills.github.com/#first-day-on-github :
 # 1
 ## 2
 ### 3
