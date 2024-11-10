@@ -1,3 +1,4 @@
+  420  pwd
   421  mkdir gitnub
   422  cd gitnub/
   423  mkdir uninitiate
@@ -88,3 +89,29 @@
   508  history 100
   509  history 90
   510  history 90 > devops_initiate_gcp_vscode_cli_09Nov24.txt
+  511  git add .
+  512  git commit -m "tweaked yesterday's post and added the cli history to public repo and more updates todays ramble"
+  513  date
+  514  git push
+  515  date
+  516  git add .
+  517  git commit -m "tweaked yesterday's post a little bit again and more updates to todays ramble"
+  518  git add .
+  519  git commit -m "tweaked yesterday's post a little bit again and corrected updates to todays ramble"
+  520  date
+  521  git push
+  522  date
+  523  git add .
+  524  git commit -m "tweaked updates to todays ramble"
+  525  git push
+  526  date
+  527  curl https://uninitiate.github.io/2024/11/10/Some-More-Stuff-In-My-Mind.html
+  528  git push
+  529  curl https://uninitiate.github.io/2024/11/10/Some-More-Stuff-In-My-Mind.html
+  530  git pull
+  531  curl https://uninitiate.github.io/2024/11/10/Some-More-Stuff-In-My-Mind.html
+  532  history 100
+  533  history 105
+  534  history 110
+  535* history 117
+  536  history 117 > devops_initiate_gcp_vscode_cli_09Nov24.txt

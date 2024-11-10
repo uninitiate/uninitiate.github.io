@@ -20,6 +20,7 @@ Long Story... but in a short version.  After attending Code Vipassana for three 
 6. create personal token in Github GUI and added to the GCP Cloud Shell Editor
 7. git clone
 8. git push
+9. git pull
 
 
 Full history from creating the misspelt Gitnub folder to this page is in the repo to view!
