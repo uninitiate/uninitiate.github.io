@@ -1,0 +1,90 @@
+  421  mkdir gitnub
+  422  cd gitnub/
+  423  mkdir uninitiate
+  424  cd uninitiate/
+  425  ls
+  426  cd skills-github-pages/
+  427  git status 
+  428  ls
+  429  code .
+  430  git --version 
+  431  git --config user.name
+  432  git --config
+  433  git --config global
+  434  cd ..
+  435  ls
+  436  git clone https://github.com/uninitiate/laughing-octo-eureka.git
+  437  cd laughing-octo-eureka/
+  438  git status 
+  439  git log
+  440  cd ..
+  441  gh repo clone uninitiate/uninitiate.github.io
+  442  gh auth login
+  443  gh repo clone uninitiate/uninitiate.github.io
+  444  ls
+  445  cd uninitiate.github.io/
+  446  ls
+  447  git branch 
+  448  git init
+  449  ls -al
+  450  cd .git/
+  451  ls
+  452  cd ..
+  453  git status
+  454  lynx /
+  455  cd ..
+  456  cd skills-github-pages/
+  457  ls -al
+  458  ls 
+  459  cd ..
+  460  cd uninitiate.github.io/
+  461  cp ~/gitnub/uninitiate/skills-github-pages/*.* 
+  462  cp ~/gitnub/uninitiate/skills-github-pages/*.* .
+  463  ls ial
+  464  ls -al
+  465  cp ~/gitnub/uninitiate/skills-github-pages/* .
+  466  cp -r ~/gitnub/uninitiate/skills-github-pages/* .
+  467  git status 
+  468  git add .
+  469  git commit -m "updating with files from skills-github-pages-repo"
+  470  git config --global user.name Uninitiate
+  471  git config --global user.email ukhsa.ravi@gmail.com
+  472  git commit -m "updating with files from skills-github-pages-repo"
+  473  git push
+  474  git add .
+  475  git commit -m "updating with 2nd blog entry"
+  476  git push
+  477  history 
+  478  git add .
+  479  git commit -m "updating with edited 2nd blog entry"
+  480  git push
+  481  git add .
+  482  git commit -m "updating with further corrections for 2nd blog entry"
+  483  git push
+  484  gcloud config set project gcpabivipassanas05
+  485  ls
+  486  cd gitnub/
+  487  ls
+  488  cd uninitiate/
+  489  ls
+  490  cd _posts/
+  491  ls
+  492  ls -l
+  493  cp 2024-05-27-Don\'t-be-an-uninitiate.md 2024-11-10-Some-More-Stuff-In-My-Mind.md 
+  494  git add .
+  495  git commit -m "modified last post and started todays post"
+  496  git push
+  497  git commit -m "modified index.md and added to todays post"
+  498  git add .
+  499  git commit -m "modified index.md and added to todays post"
+  500  git push
+  501  history 
+  502  git add .
+  503  git commit -m " added more to todays post"
+  504  git push
+  505  git log
+  506  date 
+  507  history
+  508  history 100
+  509  history 90
+  510  history 90 > devops_initiate_gcp_vscode_cli_09Nov24.txt

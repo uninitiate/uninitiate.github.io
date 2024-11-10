@@ -1,12 +1,12 @@
 ---
 title: "Success Site Updated Via VSCode"
-date: 2024-11-02
+date: 2024-11-09
 ---
 # Testing
 Ok I've created this on VSCode via GCP Cloudshell Editor and have attempted to merge it into my Main Github Pages
 and wow how amazing it actually worked!!!
 
-Below is the history of the cli :
+Below is the history of the cli :                        <br>
   527  cd uninitiate.github.io/
   528  cp ~/gitnub/uninitiate/skills-github-pages/*.*    <br>
   529  cp ~/gitnub/uninitiate/skills-github-pages/*.* .  <br>
