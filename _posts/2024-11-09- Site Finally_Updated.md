@@ -7,7 +7,7 @@ Ok I've created this on VSCode via GCP Cloudshell Editor and have attempted to m
 and wow how amazing it actually worked!!!
 
 Below is the history of the cli :                        <br>
-  527  cd uninitiate.github.io/
+  527  cd uninitiate.github.io/                          <br>
   528  cp ~/gitnub/uninitiate/skills-github-pages/*.*    <br>
   529  cp ~/gitnub/uninitiate/skills-github-pages/*.* .  <br>
   530  ls ial                                             <br>
